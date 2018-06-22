@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Satyam app5</string>
+    <string name="text_firstact_ivity">First Activity</string>
+    <string name="text_goto_secondactivity">Goto Second Activity</string>
+    <string name="text_secondactivity">Second Activity</string>
+    <string name="text_goto_firstactivity">Goto First Activity</string>
+</resources>
